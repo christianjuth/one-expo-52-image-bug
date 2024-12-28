@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "expo": "~52.0.17",
+    "expo-image": "^2.0.3",
     "one": "1.1.374",
     "react": "^18.3.1",
     "react-native": "0.76.4",
